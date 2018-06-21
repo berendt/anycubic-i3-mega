@@ -35,3 +35,10 @@ Articles
 ========
 
 * https://drucktipps3d.de/drucker-hilfe-nix-klebt-am-druckbett/
+
+Software
+========
+
+* https://ultimaker.com/en/products/ultimaker-cura-software
+* https://octoprint.org
+* http://marlinfw.org
