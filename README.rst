@@ -16,3 +16,16 @@ Mosfet
 
 * https://www.amazon.de/gp/product/B07769QPNZ/
 * https://www.thingiverse.com/thing:2845377
+
+Noozles
+=======
+
+* 6 * 0.4mm: https://www.amazon.de/gp/product/B072QCW2JJ
+
+Tools
+=====
+
+* Mini wrenchs: https://www.amazon.de/gp/product/B0051YLS1A
+
+Filament
+========
