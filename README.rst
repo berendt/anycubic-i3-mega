@@ -26,6 +26,12 @@ Tools
 =====
 
 * Mini wrenchs: https://www.amazon.de/gp/product/B0051YLS1A
+* Isopropanol 99.9%: https://www.amazon.de/dp/B00B77QTGO
 
 Filament
 ========
+
+Articles
+========
+
+* https://drucktipps3d.de/drucker-hilfe-nix-klebt-am-druckbett/
