@@ -25,8 +25,9 @@ Noozles
 Tools
 =====
 
-* Mini wrenchs: https://www.amazon.de/gp/product/B0051YLS1A
+* Mini wrench set: https://www.amazon.de/gp/product/B0051YLS1A
 * Isopropanol 99.9%: https://www.amazon.de/dp/B00B77QTGO
+* Mini file set: https://www.amazon.de/gp/product/B000LFTT1K
 
 Filament
 ========
