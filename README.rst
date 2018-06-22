@@ -11,14 +11,25 @@ Modifications
 * https://www.thingiverse.com/thing:2837666
 * https://www.thingiverse.com/thing:2870592
 
+Hardware
+========
+
+Fans
+----
+
+* Hotend: https://www.amazon.de/gp/product/B0083A0BY4
+* Mainboard: https://www.amazon.de/gp/product/B008B16ZJA
+* PSU:  https://www.amazon.de/gp/product/B006WXDXZS
+* Pressure part: https://www.amazon.de/gp/product/B06XCSPVC8
+
 Mosfet
-======
+------
 
 * https://www.amazon.de/gp/product/B07769QPNZ/
 * https://www.thingiverse.com/thing:2845377
 
 Noozles
-=======
+-------
 
 * 6 * 0.4mm: https://www.amazon.de/gp/product/B072QCW2JJ
 
