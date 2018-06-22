@@ -14,6 +14,12 @@ Modifications
 Hardware
 ========
 
+Stepper driver
+--------------
+
+* TMC2208: https://www.watterott.com/de/SilentStepStick-TMC2208-3D-Drucker-Bundle-4-Stk
+* https://www.youtube.com/watch?v=tC_v4Y9Ie20
+
 Fans
 ----
 
