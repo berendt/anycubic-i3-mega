@@ -11,6 +11,11 @@ Modifications
 * https://www.thingiverse.com/thing:2837666
 * https://www.thingiverse.com/thing:2870592
 
+Dampers
+-------
+
+* https://www.thingiverse.com/thing:2782565
+
 Hardware
 ========
 
