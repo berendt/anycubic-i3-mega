@@ -2,6 +2,15 @@
 Anycubic i3 Mega
 ================
 
+Octoprint
+=========
+
+Plugins
+-------
+
+* https://plugins.octoprint.org/plugins/detailedprogress/
+* https://plugins.octoprint.org/plugins/filament_sensor/
+
 Modifications
 =============
 
